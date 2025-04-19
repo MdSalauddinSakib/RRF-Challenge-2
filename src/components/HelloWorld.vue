@@ -87,7 +87,32 @@
                 <a href="#" class="text-[#3a30ba] border border-[#3a30ba] px-4 py-2 rounded-md">Sign Up</a>
             </div>
         </nav>
-
+        <hr class="border-t border-gray-300" />
+        <!-- Navbar End -->
+        <!-- Hero area -->
+        <header class="pt-16 container">
+            <h1 class="text-[#17134a] font-bold text-center text-6xl leading-16">Build Websites with <br>
+                the Power of AI</h1>
+            <p class="text-[#45426e] text-2xl text-center my-5">It takes minutes to finish a website with Dorik, it's
+                simple, intuitive <br>
+                and can be easily learned by beginners</p>
+            <div class="flex justify-center items-center gap-4 mt-8 text-[#45426e] text-lg">
+                <p><i class="fa-regular fa-circle-check text-[#4b41bf]"></i> Landing Pages</p>
+                <p><i class="fa-regular fa-circle-check text-[#4b41bf]"></i> AI Generated Content</p>
+                <p><i class="fa-regular fa-circle-check text-[#4b41bf]"></i> Free Stock Images</p>
+                <p><i class="fa-regular fa-circle-check text-[#4b41bf]"></i> Blogs</p>
+                <p><i class="fa-regular fa-circle-check text-[#4b41bf]"></i> Web Analytics</p>
+                <p><i class="fa-regular fa-circle-check text-[#4b41bf]"></i> White-Label CMS</p>
+            </div>
+            <div class="flex justify-center py-10">
+                <div class="bg-image text-center w-80">
+                    <a href="#"
+                        class="bg-[#3a30ba] hover:bg-[#12126e] transition  text-white font-bold py-4 px-6 rounded cursor-pointer inline-block">
+                        Try it Free <i class="fa-solid fa-angle-right"></i>
+                    </a>
+                </div>
+            </div>
+        </header>
     </section>
-    <hr class="border-t border-gray-300" />
+
 </template>

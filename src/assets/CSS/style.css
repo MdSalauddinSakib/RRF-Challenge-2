@@ -10,3 +10,10 @@ body{
     margin: 0 auto;
     width: 1170px;
 }
+
+.bg-image{
+    background-image: url('../img/button-bg.svg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
