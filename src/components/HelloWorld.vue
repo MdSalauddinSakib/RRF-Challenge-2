@@ -299,4 +299,106 @@
             </div>
         </section>
     </div>
+    <div class="mt-20">
+        <section class="container bg-[#f1faf7] p-8 rounded-lg">
+            <div class="flex items-center gap-8">
+                <div class="w-1/2">
+                    <h2 class="text-[#17134a] text-5xl font-semibold">White-Label CMS
+                    </h2>
+                    <p class="text-lg text-[#45426E] py-4">A complete solution to build websites under your brand for
+                        your clients.</p>
+                    <div class="flex flex-col gap-4">
+                        <p class="text-[#45426e] font-medium"><i class="fa-solid fa-check"></i> Add your own brand’s
+                            logo and colors</p>
+                        <p class="text-[#45426e] font-medium"><i class="fa-solid fa-check"></i> Dedicated dashboard for
+                            your client</p>
+                        <p class="text-[#45426e] font-medium"><i class="fa-solid fa-check"></i> Build anything from
+                            blogs to directories</p>
+                    </div>
+                    <div class="mt-10 w-80">
+                        <a href="#"
+                            class="bg-[#3a30ba] hover:bg-[#12126e] transition  text-white font-medium py-4 px-8 rounded cursor-pointer inline-block">
+                            Try Dorik Now <i class="fa-solid fa-angle-right"></i>
+                        </a>
+                    </div>
+                </div>
+
+                <div class="w-1/2">
+                    <img src="../assets/img/white-label.png" alt="">
+                </div>
+            </div>
+            <hr class="border-t border-gray-300 my-11" />
+            <div class="flex justify-between gap-4">
+                <div class="flex-1">
+                    <i class="fa-solid fa-pencil text-[#45426E] text-2xl"></i>
+                    <p class="my-4 text-[#17136a] font-semibold text-lg">Built-in Blogging Platform</p>
+                    <p class="text-[#45426E]">Build and publish blogs with all the features you need to rank on Google
+                        and grow audience.</p>
+                </div>
+                <div class="flex-1">
+                    <i class="fa-regular fa-clipboard text-[#45426E] text-2xl"></i>
+                    <p class="my-4 text-[#17136a] font-semibold text-lg">White Label Dashboard
+                    </p>
+                    <p class="text-[#45426E]">A white-label dashboard for your clients that you can brand as your own
+                    </p>
+                </div>
+                <div class="flex-1">
+                    <i class="fa-solid fa-money-bill-trend-up text-[#45426E] text-2xl"></i>
+                    <p class="my-4 text-[#17136a] font-semibold text-lg">Client Billing</p>
+                    <p class="text-[#45426E]">Send invoices and receive payments from your clients directly from your
+                        dashboard.</p>
+                </div>
+            </div>
+        </section>
+    </div>
+    <div class="mt-20">
+        <section class="container bg-[#eeebfa] p-8 rounded-lg">
+            <div class="flex items-center gap-8">
+                <div class="w-1/2">
+                    <h2 class="text-[#17134a] text-5xl font-semibold">Build with Airtable Data</h2>
+                    <p class="text-lg text-[#45426E] py-4">Bring your Airtable Data to beautiful interfaces with our
+                        Airtable elements</p>
+                    <div class="flex flex-col gap-4">
+                        <p class="text-[#45426e] font-medium"><i class="fa-solid fa-check"></i> Present your data from
+                            Airtable into beautiful interfaces</p>
+                        <p class="text-[#45426e] font-medium"><i class="fa-solid fa-check"></i> Easy-to-use filter and
+                            search option for your users</p>
+                        <p class="text-[#45426e] font-medium"><i class="fa-solid fa-check"></i> Create blogs, job
+                            boards, shops, profiles, and more</p>
+                    </div>
+                    <div class="mt-10 w-80">
+                        <a href="#"
+                            class="bg-[#3a30ba] hover:bg-[#12126e] transition  text-white font-medium py-4 px-8 rounded cursor-pointer inline-block">
+                            Try Dorik Now <i class="fa-solid fa-angle-right"></i>
+                        </a>
+                    </div>
+                </div>
+
+                <div class="w-1/2">
+                    <img src="../assets/img/airtable.png" alt="">
+                </div>
+            </div>
+            <hr class="border-t border-gray-300 my-11" />
+            <div class="flex justify-between gap-4">
+                <div class="flex-1">
+                    <i class="fa-solid fa-table-columns text-[#45426E] text-2xl"></i>
+                    <p class="my-4 text-[#17136a] font-semibold text-lg">Beautiful Layouts</p>
+                    <p class="text-[#45426E]">Showcase your data in any layout, like the grid, table, job board, etc.
+                    </p>
+                </div>
+                <div class="flex-1">
+                    <i class="fa-solid fa-bolt text-[#45426E] text-2xl"></i>
+                    <p class="my-4 text-[#17136a] font-semibold text-lg">Realtime Update
+                    </p>
+                    <p class="text-[#45426E]">Update data on Airtable and it will be updated on your website instantly
+                    </p>
+                </div>
+                <div class="flex-1">
+                    <i class="fa-solid fa-database text-[#45426E] text-2xl"></i>
+                    <p class="my-4 text-[#17136a] font-semibold text-lg">Advanced Customization</p>
+                    <p class="text-[#45426E]">Use Airtable as a data source in Dorik CMS and customize everything.</p>
+                </div>
+            </div>
+        </section>
+    </div>
 </template>
