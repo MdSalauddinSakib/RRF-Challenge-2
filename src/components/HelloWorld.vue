@@ -400,5 +400,37 @@
                 </div>
             </div>
         </section>
+
+        <section class="container">
+            <div class="my-20 flex gap-8 items-center">
+                <div class="flex-1">
+                    <h2 class="text-6xl text-[#17134a] font-bold">Join over 100k+ happy users from around the world!
+                    </h2>
+                    <div class="mt-10 w-80">
+                        <a href="#"
+                            class="bg-[#3a30ba] hover:bg-[#12126e] transition  text-white font-medium py-4 px-8 rounded cursor-pointer inline-block">
+                            Wall of Love <i class="fa-solid fa-angle-right"></i>
+                        </a>
+                    </div>
+                </div>
+                <div class="pt-11 text-[#17136d] flex-1">
+                    <div class="text-center">
+                        <p class="font-semibold text-lg"><i class="fa-regular fa-heart text-red-400"></i> &nbsp; Loved
+                            by
+                            cool people from</p>
+                    </div>
+                    <div class="flex justify-center flex-wrap gap-2 px-2 py-8">
+                        <img class="w-26 h-14 object-contain" src="../assets/img/netflix.png" alt="">
+                        <img class="w-26 h-14 object-contain" src="../assets/img/flippa-logo.png" alt="">
+                        <img class="w-26 h-14 object-contain" src="../assets/img/stanford.webp" alt="">
+                        <img class="w-26 h-14 object-contain" src="../assets/img/iimcb.png" alt="">
+                        <img class="w-26 h-14 object-contain" src="../assets/img/taptap.png" alt="">
+                        <img class="w-26 h-14 object-contain" src="../assets/img/decathlon-logo.svg" alt="">
+                        <img class="w-26 h-14 object-contain" src="../assets/img/no-code.jpeg" alt="">
+                        <img class="w-26 h-14 object-contain" src="../assets/img/vivacom.svg" alt="">
+                    </div>
+                </div>
+            </div>
+        </section>
     </div>
 </template>
