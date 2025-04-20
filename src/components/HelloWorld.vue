@@ -459,4 +459,96 @@
             <img src="../assets/img/template-3.webp" alt="">
         </div>
     </div>
+    <section class="container">
+        <div class="mt-30 text-center">
+            <h2 class="text-6xl font-semibold text-[#17134a] my-8">No Maintenance, More Freedom.</h2>
+            <p class="text-[#51486e] text-xl">The perfect launchpad for your online presence</p>
+        </div>
+        <div class="mb-30">
+            <div class="flex mt-11">
+                <div class="flex-1">
+                    <i class="fa-solid fa-shield text-[#17134a]"></i>
+                    <h2 class="text-[#17134a] font-bold my-2 text-2xl">Reliable Hosting & CDN</h2>
+                    <p>We host the websites on AWS & DigitalOcean and serve static content from our Global CDN</p>
+                </div>
+                <div class="flex-1">
+                    <i class="fa-solid fa-shield text-[#17134a]"></i>
+                    <h2 class="text-[#17134a] font-bold my-2 text-2xl">Free SSL/HTTPS</h2>
+                    <p>Every website built and hosted on our platform comes with a free SSL certificate issued by Let's
+                        Encrypt</p>
+                </div>
+                <div class="flex-1">
+                    <i class="fa-solid fa-shield text-[#17134a]"></i>
+                    <h2 class="text-[#17134a] font-bold my-2 text-2xl">Team Collaboration</h2>
+                    <p>Collaborate with your team and get input on designs, feedback, or brainstorming sessions.</p>
+                </div>
+            </div>
+            <div class="flex mt-11">
+                <div class="flex-1">
+                    <i class="fa-solid fa-shield text-[#17134a]"></i>
+                    <h2 class="text-[#17136a] font-bold my-2 text-2xl">Reliable Hosting & CDN</h2>
+                    <p>We host the websites on AWS & DigitalOcean and serve static content from our Global CDN</p>
+                </div>
+                <div class="flex-1">
+                    <i class="fa-solid fa-shield text-[#17134a]"></i>
+                    <h2 class="text-[#17136a] font-bold my-2 text-2xl">Reliable Hosting & CDN</h2>
+                    <p>We host the websites on AWS & DigitalOcean and serve static content from our Global CDN</p>
+                </div>
+                <div class="flex-1">
+                    <i class="fa-solid fa-shield text-[#17134a]"></i>
+                    <h2 class="text-[#17136a] font-bold my-2 text-2xl">Reliable Hosting & CDN</h2>
+                    <p>We host the websites on AWS & DigitalOcean and serve static content from our Global CDN</p>
+                </div>
+            </div>
+            <div class="flex mt-11">
+                <div class="flex-1">
+                    <i class="fa-solid fa-shield text-[#17134a]"></i>
+                    <h2 class="text-[#17136a] font-bold my-2 text-2xl">Reliable Hosting & CDN</h2>
+                    <p>We host the websites on AWS & DigitalOcean and serve static content from our Global CDN</p>
+                </div>
+                <div class="flex-1">
+                    <i class="fa-solid fa-shield text-[#17134a]"></i>
+                    <h2 class="text-[#17136a] font-bold my-2 text-2xl">Reliable Hosting & CDN</h2>
+                    <p>We host the websites on AWS & DigitalOcean and serve static content from our Global CDN</p>
+                </div>
+                <div class="flex-1">
+                    <i class="fa-solid fa-shield text-[#17134a]"></i>
+                    <h2 class="text-[#17136a] font-bold my-2 text-2xl">Reliable Hosting & CDN</h2>
+                    <p>We host the websites on AWS & DigitalOcean and serve static content from our Global CDN</p>
+                </div>
+            </div>
+            <div class="flex mt-11">
+                <div class="flex-1">
+                    <i class="fa-solid fa-shield text-[#17134a]"></i>
+                    <h2 class="text-[#17136a] font-bold my-2 text-2xl">Reliable Hosting & CDN</h2>
+                    <p>We host the websites on AWS & DigitalOcean and serve static content from our Global CDN</p>
+                </div>
+                <div class="flex-1">
+                    <i class="fa-solid fa-shield text-[#17134a]"></i>
+                    <h2 class="text-[#17136a] font-bold my-2 text-2xl">Reliable Hosting & CDN</h2>
+                    <p>We host the websites on AWS & DigitalOcean and serve static content from our Global CDN</p>
+                </div>
+                <div class="flex-1">
+                    <i class="fa-solid fa-shield text-[#17134a]"></i>
+                    <h2 class="text-[#17136a] font-bold my-2 text-2xl">Reliable Hosting & CDN</h2>
+                    <p>We host the websites on AWS & DigitalOcean and serve static content from our Global CDN</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="bg-[#fff9f3] my-30">
+        <div class="text-center py-20 flex flex-col justify-center items-center">
+            <h2 class="text-6xl font-semibold text-[#17134a] my-8">Affordable Pricing</h2>
+            <p class="text-[#51486e] text-xl">Start building your websites for free. Upgrade to any paid plans to unlock
+                features like forms, <br> custom
+                domains, and more.</p>
+            <div class="mt-10 w-80">
+                <a href="#"
+                    class="bg-[#3a30ba] hover:bg-[#12126e] transition  text-white font-medium py-4 px-8 rounded cursor-pointer inline-block">
+                    See Pricing <i class="fa-solid fa-angle-right"></i>
+                </a>
+            </div>
+        </div>
+    </section>
 </template>
