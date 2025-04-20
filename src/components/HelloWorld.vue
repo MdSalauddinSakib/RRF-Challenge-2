@@ -192,12 +192,9 @@
                 <div class="flex justify-between flex-wrap gap-2 px-2 py-8  grayscale-100">
                     <img class="w-30 h-14 object-contain" src="../assets/img/netflix.png" alt="">
                     <img class="w-30 h-14 object-contain" src="../assets/img/flippa-logo.png" alt="">
-                    <img class="w-30 h-14 object-contain" src="../assets/img/stanford.webp"
-                        alt="">
-                    <img class="w-30 h-14 object-contain"
-                        src="../assets/img/iimcb.png" alt="">
-                    <img class="w-30 h-14 object-contain"
-                        src="../assets/img/taptap.png" alt="">
+                    <img class="w-30 h-14 object-contain" src="../assets/img/stanford.webp" alt="">
+                    <img class="w-30 h-14 object-contain" src="../assets/img/iimcb.png" alt="">
+                    <img class="w-30 h-14 object-contain" src="../assets/img/taptap.png" alt="">
                     <img class="w-30 h-14 object-contain" src="../assets/img/decathlon-logo.svg" alt="">
                     <img class="w-30 h-14 object-contain" src="../assets/img/no-code.jpeg" alt="">
                     <img class="w-30 h-14 object-contain" src="../assets/img/vivacom.svg" alt="">
@@ -232,10 +229,74 @@
             </div>
         </div>
         <hr class="border-t border-gray-300 my-11" />
-        <div>
-            <div>
-                <h2>heloo</h2>
+        <div class="flex justify-between gap-4">
+            <div class="flex-1">
+                <i class="fa-solid fa-table-columns text-[#45426E] text-2xl"></i>
+                <p class="my-4 text-[#17136a] font-semibold text-lg">Stunning Websites</p>
+                <p class="text-[#45426E]">Type a prompt, get a full website using the <br> power of cutting-edge AI
+                    technology</p>
+            </div>
+            <div class="flex-1">
+                <i class="fa-regular fa-pen-to-square text-[#45426E] text-2xl"></i>
+                <p class="my-4 text-[#17136a] font-semibold text-lg">Compelling Copies</p>
+                <p class="text-[#45426E]">Generate all your website content in two <br> steps—a prompt & a click!</p>
+            </div>
+            <div class="flex-1">
+                <i class="fa-solid fa-image text-[#45426E] text-2xl"></i>
+                <p class="my-4 text-[#17136a] font-semibold text-lg">Pixel Perfect Images</p>
+                <p class="text-[#45426E]">Type a prompt and generate the exact <br> image on your mind.</p>
             </div>
         </div>
     </section>
+    <div class="mt-20">
+        <section class="container bg-[#fdeff7] p-8 rounded-lg">
+            <div class="flex items-center gap-8">
+                <div class="w-1/2">
+                    <h2 class="text-[#17134a] text-5xl font-semibold">No-Code Website <br> Builder
+                    </h2>
+                    <p class="text-lg text-[#45426E] py-4">Unleash your creativity with our easy-to-use and powerful
+                        website builder.</p>
+                    <div class="flex flex-col gap-4">
+                        <p class="text-[#45426e] font-medium"><i class="fa-solid fa-check"></i> Create websites in
+                            minutes without any code</p>
+                        <p class="text-[#45426e] font-medium"><i class="fa-solid fa-check"></i> Say goodbye to lengthy
+                            development time</p>
+                        <p class="text-[#45426e] font-medium"><i class="fa-solid fa-check"></i> Customize everything to
+                            match your vision</p>
+                    </div>
+                    <div class="mt-10 w-80">
+                        <a href="#"
+                            class="bg-[#3a30ba] hover:bg-[#12126e] transition  text-white font-medium py-4 px-8 rounded cursor-pointer inline-block">
+                            Try Dorik Now <i class="fa-solid fa-angle-right"></i>
+                        </a>
+                    </div>
+                </div>
+
+                <div class="w-1/2">
+                    <img src="../assets/img/no-code.png" alt="">
+                </div>
+            </div>
+            <hr class="border-t border-gray-300 my-11" />
+            <div class="flex justify-between gap-4">
+                <div class="flex-1">
+                    <i class="fa-solid fa-pen-nib text-[#45426E] text-2xl"></i>
+                    <p class="my-4 text-[#17136a] font-semibold text-lg">Drag & Drop Builder</p>
+                    <p class="text-[#45426E]">Drag-and-drop builder makes website <br> creation a breeze. No coding is
+                        required.</p>
+                </div>
+                <div class="flex-1">
+                    <i class="fa-solid fa-cube text-[#45426E] text-2xl"></i>
+                    <p class="my-4 text-[#17136a] font-semibold text-lg">Templates
+                    </p>
+                    <p class="text-[#45426E]">With pre-designed templates, you can <br> quickly build your website.
+                    </p>
+                </div>
+                <div class="flex-1">
+                    <i class="fa-solid fa-cubes-stacked text-[#45426E] text-2xl"></i>
+                    <p class="my-4 text-[#17136a] font-semibold text-lg">250+ UI Blocks</p>
+                    <p class="text-[#45426E]">Pre-designed UI blocks to make your <br> building journey faster</p>
+                </div>
+            </div>
+        </section>
+    </div>
 </template>
