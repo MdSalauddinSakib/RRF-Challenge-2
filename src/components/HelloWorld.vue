@@ -134,17 +134,17 @@
                 <div class="flex items-center justify-center gap-8">
                     <div class="flex items-center gap-4">
                         <p>Featured on:</p>
-                        <img class="w-30 h-12 object-contain" src="../assets/img/usa-today-new-1-1-1-1isQue.svg" alt="">
+                        <img class="w-30 h-12 object-contain" src="../assets/img/usa-today.svg" alt="">
                     </div>
                     <img class="w-30 h-12 object-contain" src="../assets/img/CNN.webp" alt="">
-                    <img class="w-30 h-12 object-contain" src="../assets/img/pcmag-wggP-y.svg" alt="">
-                    <img class="w-30 h-12 object-contain" src="../assets/img/hubspot_logo-I6cXPe.svg" alt="">
-                    <img class="w-30 h-12 object-contain" src="../assets/img/usn-logo-large-b5R6h2.svg" alt="">
+                    <img class="w-30 h-12 object-contain" src="../assets/img/pcmag.svg" alt="">
+                    <img class="w-30 h-12 object-contain" src="../assets/img/hubspot_logo.svg" alt="">
+                    <img class="w-30 h-12 object-contain" src="../assets/img/usnews.svg" alt="">
                 </div>
             </div>
 
             <div class="flex justify-center w-1/4 mx-auto py-11">
-                <a class="" href="#"><img class="" src="../assets/img/leader.png" alt=""></a>
+                <a class="" href="#"><img src="../assets/img/Leader.png" alt=""></a>
             </div>
 
             <div class="flex justify-center">
@@ -190,17 +190,17 @@
                         cool people from</p>
                 </div>
                 <div class="flex justify-between flex-wrap gap-2 px-2 py-8  grayscale-100">
-                    <img class="w-30 h-14 object-contain" src="../assets/img/netflix_logo_rgb-wjeQyf.png" alt="">
-                    <img class="w-30 h-14 object-contain" src="../assets/img/flippa-logos-idibb6mjpq-gOVSUs.png" alt="">
-                    <img class="w-30 h-14 object-contain" src="../assets/img/wordmark-nospace-stacked-red-T6WNqN.webp"
+                    <img class="w-30 h-14 object-contain" src="../assets/img/netflix.png" alt="">
+                    <img class="w-30 h-14 object-contain" src="../assets/img/flippa-logo.png" alt="">
+                    <img class="w-30 h-14 object-contain" src="../assets/img/stanford.webp"
                         alt="">
                     <img class="w-30 h-14 object-contain"
-                        src="../assets/img/iimcb-blue-transparent-background-IrBAFT.png" alt="">
+                        src="../assets/img/iimcb.png" alt="">
                     <img class="w-30 h-14 object-contain"
-                        src="../assets/img/5b3a97163c43bae706308fca_logo_horz_mint_bg@2x-ke4VOy.png" alt="">
-                    <img class="w-30 h-14 object-contain" src="../assets/img/decathlon-logo-qh264k.svg" alt="">
-                    <img class="w-30 h-14 object-contain" src="../assets/img/channels4_profile-Ui18Oe.jpeg" alt="">
-                    <img class="w-30 h-14 object-contain" src="../assets/img/vivacom-logo-Mc4Rec.svg" alt="">
+                        src="../assets/img/taptap.png" alt="">
+                    <img class="w-30 h-14 object-contain" src="../assets/img/decathlon-logo.svg" alt="">
+                    <img class="w-30 h-14 object-contain" src="../assets/img/no-code.jpeg" alt="">
+                    <img class="w-30 h-14 object-contain" src="../assets/img/vivacom.svg" alt="">
                 </div>
             </div>
         </div>
@@ -234,7 +234,7 @@
         <hr class="border-t border-gray-300 my-11" />
         <div>
             <div>
-                
+                <h2>heloo</h2>
             </div>
         </div>
     </section>
