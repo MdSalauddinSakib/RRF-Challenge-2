@@ -551,4 +551,42 @@
             </div>
         </div>
     </section>
+
+    <section class="container">
+        <div>
+            <h2 class="text-6xl text-center font-semibold text-[#17134a] my-8">Extended Guides, Live Support <br> &
+                Community to help you
+            </h2>
+        </div>
+
+        <div class="my-26 flex gap-8">
+            <div class="bg-[#f6f6fc] p-8 rounded-lg border-b-4 border-b-blue-700">
+                <h2 class="text-[#17134a] text-xl font-bold">Documentation</h2>
+                <p class="text-[#51486e] text-xl my-2">We have extensive documentation on getting started with Dorik, as
+                    well
+                    as how to design and customize
+                    your website.</p>
+                <a class="text-[#17134a] text-lg font-medium hover:text-blue-900" href="#">Dorik Helpdesk <i
+                        class="fa-solid fa-angle-right"></i></a>
+            </div>
+            <div class="bg-[#f6f6fc] p-8 rounded-lg border-b-4 border-b-[#de238e]">
+                <h2 class="text-[#17134a] text-xl font-bold">Live Chat Support</h2>
+                <p class="text-[#51486e] text-xl my-2">We have extensive documentation on getting started with Dorik, as
+                    well
+                    as how to design and customize
+                    your website.</p>
+                <a class="text-[#17134a] text-lg font-medium hover:text-blue-900" href="#">Start Live Chat <i
+                        class="fa-solid fa-angle-right"></i></a>
+            </div>
+            <div class="bg-[#f6f6fc] p-8 rounded-lg border-b-4 border-b-[#ffcd88]">
+                <h2 class="text-[#17134a] text-xl font-bold">Online Forum</h2>
+                <p class="text-[#51486e] text-xl my-2">We have extensive documentation on getting started with Dorik, as
+                    well
+                    as how to design and customize
+                    your website.</p>
+                <a class="text-[#17134a] text-lg font-medium hover:text-blue-900" href="#">Facebook Community <i
+                        class="fa-solid fa-angle-right"></i></a>
+            </div>
+        </div>
+    </section>
 </template>
