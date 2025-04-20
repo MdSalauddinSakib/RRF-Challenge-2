@@ -190,10 +190,8 @@
                         cool people from</p>
                 </div>
                 <div class="flex justify-between flex-wrap gap-2 px-2 py-8  grayscale-100">
-                    <img class="w-30 h-14 object-contain" src="../assets/img/netflix_logo_rgb-wjeQyf.png"
-                        alt="">
-                    <img class="w-30 h-14 object-contain"
-                        src="../assets/img/flippa-logos-idibb6mjpq-gOVSUs.png" alt="">
+                    <img class="w-30 h-14 object-contain" src="../assets/img/netflix_logo_rgb-wjeQyf.png" alt="">
+                    <img class="w-30 h-14 object-contain" src="../assets/img/flippa-logos-idibb6mjpq-gOVSUs.png" alt="">
                     <img class="w-30 h-14 object-contain" src="../assets/img/wordmark-nospace-stacked-red-T6WNqN.webp"
                         alt="">
                     <img class="w-30 h-14 object-contain"
@@ -207,9 +205,37 @@
             </div>
         </div>
     </section>
-    <section>
+    <section class="container bg-[#fff9f3] p-8 rounded-lg">
+        <div class="flex items-center gap-8">
+            <div class="w-1/2">
+                <h2 class="text-[#17134a] text-5xl font-semibold">Transform Your Ideas <br> into Reality with AI</h2>
+                <p class="text-lg text-[#45426E] py-4">Bring your creative vision to life with Dorik AI</p>
+                <div class="flex flex-col gap-4">
+                    <p class="text-[#45426e] font-medium"><i class="fa-solid fa-check"></i> Website Generation</p>
+                    <p class="text-[#45426e] font-medium"><i class="fa-solid fa-check"></i> AI-Generated Contents (Text
+                        &
+                        Images)</p>
+                    <p class="text-[#45426e] font-medium"><i class="fa-solid fa-check"></i> Build Website in Any
+                        Language</p>
+                </div>
+                <div class="mt-10 w-80">
+                    <a href="#"
+                        class="bg-[#3a30ba] hover:bg-[#12126e] transition  text-white font-medium py-4 px-8 rounded cursor-pointer inline-block">
+                        Try Dorik Now <i class="fa-solid fa-angle-right"></i>
+                    </a>
+                </div>
+            </div>
+
+            <div class="w-1/2">
+                <img src="../assets/img/website-generation.png" alt="">
+                <p class="text-center text-lg text-[#45426E]">Prompt: <i>"Build a website for my coffeeshop"</i></p>
+            </div>
+        </div>
+        <hr class="border-t border-gray-300 my-11" />
         <div>
-            <h2>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nisi accusamus fugit sit quibusdam saepe alias totam fuga mollitia consequatur. Non autem ratione asperiores qui deleniti, nisi quae a minus impedit.</h2>
+            <div>
+                
+            </div>
         </div>
     </section>
 </template>
