@@ -351,7 +351,7 @@
             </div>
         </section>
     </div>
-    <div class="mt-20">
+    <div class="my-20">
         <section class="container bg-[#eeebfa] p-8 rounded-lg">
             <div class="flex items-center gap-8">
                 <div class="w-1/2">
@@ -432,5 +432,31 @@
                 </div>
             </div>
         </section>
+    </div>
+
+    <div class="my-20 bg-[#030521]">
+        <section class="container py-26 text-white">
+            <div>
+                <h2 class="text-6xl font-semibold">Beautiful designs, <br> Endless possibilities</h2>
+            </div>
+            <div class="mt-20 flex justify-between gap-8">
+                <div class="text-[#d1d0db] border border-blue-950 p-8 flex-1">
+                    <a href="#" class="hover:text-white text-xl font-medium leading-10">Amazing Templates</a>
+                    <p>100+ <span class="underline decoration-blue-500">Beautiful Templates</span></p>
+                </div>
+                <div class="text-[#d1d0db] border border-blue-950 p-8 flex-1">
+                    <a href="#" class="hover:text-white text-xl font-medium leading-10">UI Blocks</a>
+                    <p class="text-white">250+ <span class="underline decoration-blue-500">Stunning UI Blocks </span>
+                    </p>
+                </div>
+                <div class="text-[#d1d0db] border border-blue-950 p-8 flex-1">
+                    <a href="#" class="hover:text-white text-xl font-medium leading-10">Elements</a>
+                    <p>20+ Elements</p>
+                </div>
+            </div>
+        </section>
+        <div>
+            <img src="../assets/img/template-3.webp" alt="">
+        </div>
     </div>
 </template>
