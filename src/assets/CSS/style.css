@@ -7,6 +7,10 @@ body{
     box-sizing: border-box;
 }
 
+@theme{
+    --font-satoshi: 'Satoshi', sans-serif;
+}
+
 .container{
     max-width: 100%;
     margin: 0 auto;
