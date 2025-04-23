@@ -219,7 +219,7 @@
                 <div class="mt-10 w-80">
                     <a href="#"
                         class="bg-[#3a30ba] hover:bg-[#12126e] transition  text-white font-medium py-4 px-8 rounded cursor-pointer inline-block">
-                        Try Dorik Now <i class="fa-solid fa-angle-right"></i>
+                        Try Dorik Now <i class="fa-solid fa-arrow-right"></i>
                     </a>
                 </div>
             </div>
@@ -231,18 +231,18 @@
         </div>
         <hr class="border-t border-gray-300 my-11" />
         <div class="flex justify-between gap-4">
-            <div class=" ">
+            <div class="flex-1">
                 <i class="fa-solid fa-table-columns text-[#45426E] text-2xl"></i>
                 <p class="my-4 text-[#17136a] font-semibold text-lg">Stunning Websites</p>
                 <p class="text-[#45426E]">Type a prompt, get a full website using the <br> power of cutting-edge AI
                     technology</p>
             </div>
-            <div class=" ">
+            <div class="flex-1">
                 <i class="fa-regular fa-pen-to-square text-[#45426E] text-2xl"></i>
                 <p class="my-4 text-[#17136a] font-semibold text-lg">Compelling Copies</p>
                 <p class="text-[#45426E]">Generate all your website content in two <br> steps—a prompt & a click!</p>
             </div>
-            <div class=" ">
+            <div class="flex-1">
                 <i class="fa-solid fa-image text-[#45426E] text-2xl"></i>
                 <p class="my-4 text-[#17136a] font-semibold text-lg">Pixel Perfect Images</p>
                 <p class="text-[#45426E]">Type a prompt and generate the exact <br> image on your mind.</p>
@@ -268,7 +268,7 @@
                     <div class="mt-10 w-80">
                         <a href="#"
                             class="bg-[#3a30ba] hover:bg-[#12126e] transition  text-white font-medium py-4 px-8 rounded cursor-pointer inline-block">
-                            Try Dorik Now <i class="fa-solid fa-angle-right"></i>
+                            Try Dorik Now <i class="fa-solid fa-arrow-right"></i>
                         </a>
                     </div>
                 </div>
@@ -279,20 +279,20 @@
             </div>
             <hr class="border-t border-gray-300 my-11" />
             <div class="flex justify-between gap-4">
-                <div class=" ">
+                <div class="flex-1">
                     <i class="fa-solid fa-pen-nib text-[#45426E] text-2xl"></i>
                     <p class="my-4 text-[#17136a] font-semibold text-lg">Drag & Drop Builder</p>
                     <p class="text-[#45426E]">Drag-and-drop builder makes website <br> creation a breeze. No coding is
                         required.</p>
                 </div>
-                <div class=" ">
+                <div class="flex-1">
                     <i class="fa-solid fa-cube text-[#45426E] text-2xl"></i>
                     <p class="my-4 text-[#17136a] font-semibold text-lg">Templates
                     </p>
                     <p class="text-[#45426E]">With pre-designed templates, you can <br> quickly build your website.
                     </p>
                 </div>
-                <div class=" ">
+                <div class="flex-1">
                     <i class="fa-solid fa-cubes-stacked text-[#45426E] text-2xl"></i>
                     <p class="my-4 text-[#17136a] font-semibold text-lg">250+ UI Blocks</p>
                     <p class="text-[#45426E]">Pre-designed UI blocks to make your <br> building journey faster</p>
@@ -319,7 +319,7 @@
                     <div class="mt-10 w-80">
                         <a href="#"
                             class="bg-[#3a30ba] hover:bg-[#12126e] transition  text-white font-medium py-4 px-8 rounded cursor-pointer inline-block">
-                            Try Dorik Now <i class="fa-solid fa-angle-right"></i>
+                            Try Dorik Now <i class="fa-solid fa-arrow-right"></i>
                         </a>
                     </div>
                 </div>
@@ -330,20 +330,20 @@
             </div>
             <hr class="border-t border-gray-300 my-11" />
             <div class="flex justify-between gap-4">
-                <div class=" ">
+                <div class="flex-1">
                     <i class="fa-solid fa-pencil text-[#45426E] text-2xl"></i>
                     <p class="my-4 text-[#17136a] font-semibold text-lg">Built-in Blogging Platform</p>
                     <p class="text-[#45426E]">Build and publish blogs with all the features you need to rank on Google
                         and grow audience.</p>
                 </div>
-                <div class=" ">
+                <div class="flex-1">
                     <i class="fa-regular fa-clipboard text-[#45426E] text-2xl"></i>
                     <p class="my-4 text-[#17136a] font-semibold text-lg">White Label Dashboard
                     </p>
                     <p class="text-[#45426E]">A white-label dashboard for your clients that you can brand as your own
                     </p>
                 </div>
-                <div class=" ">
+                <div class="flex-1">
                     <i class="fa-solid fa-money-bill-trend-up text-[#45426E] text-2xl"></i>
                     <p class="my-4 text-[#17136a] font-semibold text-lg">Client Billing</p>
                     <p class="text-[#45426E]">Send invoices and receive payments from your clients directly from your
@@ -370,7 +370,7 @@
                     <div class="mt-10 w-80">
                         <a href="#"
                             class="bg-[#3a30ba] hover:bg-[#12126e] transition  text-white font-medium py-4 px-8 rounded cursor-pointer inline-block">
-                            Try Dorik Now <i class="fa-solid fa-angle-right"></i>
+                            Try Dorik Now <i class="fa-solid fa-arrow-right"></i>
                         </a>
                     </div>
                 </div>
@@ -381,20 +381,20 @@
             </div>
             <hr class="border-t border-gray-300 my-11" />
             <div class="flex justify-between gap-4">
-                <div class=" ">
+                <div class="flex-1">
                     <i class="fa-solid fa-table-columns text-[#45426E] text-2xl"></i>
                     <p class="my-4 text-[#17136a] font-semibold text-lg">Beautiful Layouts</p>
                     <p class="text-[#45426E]">Showcase your data in any layout, like the grid, table, job board, etc.
                     </p>
                 </div>
-                <div class=" ">
+                <div class="flex-1">
                     <i class="fa-solid fa-bolt text-[#45426E] text-2xl"></i>
                     <p class="my-4 text-[#17136a] font-semibold text-lg">Realtime Update
                     </p>
                     <p class="text-[#45426E]">Update data on Airtable and it will be updated on your website instantly
                     </p>
                 </div>
-                <div class=" ">
+                <div class="flex-1">
                     <i class="fa-solid fa-database text-[#45426E] text-2xl"></i>
                     <p class="my-4 text-[#17136a] font-semibold text-lg">Advanced Customization</p>
                     <p class="text-[#45426E]">Use Airtable as a data source in Dorik CMS and customize everything.</p>
@@ -404,14 +404,14 @@
 
         <section class="container">
             <div class="my-20 flex gap-8 items-center">
-                <div class=" ">
+                <div class="flex-1">
                     <h2 class="font-satoshi text-6xl text-[#17134a] font-bold">Join over 100k+ happy users from around
                         the world!
                     </h2>
                     <div class="mt-10 w-80">
                         <a href="#"
                             class="bg-[#3a30ba] hover:bg-[#12126e] transition  text-white font-medium py-4 px-8 rounded cursor-pointer inline-block">
-                            Wall of Love <i class="fa-solid fa-angle-right"></i>
+                            Wall of Love <i class="fa-solid fa-arrow-right"></i>
                         </a>
                     </div>
                 </div>
@@ -468,36 +468,36 @@
         </div>
         <div class="mb-30">
             <div class="flex mt-11 gap-4 text-[#45426e]">
-                <div class=" ">
+                <div class="flex-1">
                     <i class="fa-solid fa-shield text-[#9143fc]"></i>
                     <h2 class="text-[#17134a] font-bold my-2 text-2xl">Reliable Hosting & CDN</h2>
                     <p>We host the websites on AWS & DigitalOcean and serve static content from our Global CDN</p>
                 </div>
-                <div class=" ">
+                <div class="flex-1">
                     <i class="fa-solid fa-shield text-[#df2b92]"></i>
                     <h2 class="text-[#17134a] font-bold my-2 text-2xl">Free SSL/HTTPS</h2>
                     <p>Every website built and hosted on our platform comes with a free SSL certificate issued by Let's
                         Encrypt</p>
                 </div>
-                <div class=" ">
+                <div class="flex-1">
                     <i class="fa-solid fa-user-plus text-[#30aafe]"></i>
                     <h2 class="text-[#17134a] font-bold my-2 text-2xl">Team Collaboration</h2>
                     <p>Collaborate with your team and get input on designs, feedback, or brainstorming sessions.</p>
                 </div>
             </div>
             <div class="flex mt-11 gap-4 text-[#45426e]">
-                <div class=" ">
+                <div class="flex-1">
                     <i class="fa-regular fa-credit-card text-[#4ab4fe]"></i>
                     <h2 class="text-[#17136a] font-bold my-2 text-2xl">Payment Integration</h2>
                     <p>Integrate PayPal, Stripe, & Gumroad without code to receive payments from your users. </p>
                 </div>
-                <div class=" ">
+                <div class="flex-1">
                     <i class="fa-solid fa-cloud text-[#8e3efc]"></i>
                     <h2 class="text-[#17136a] font-bold my-2 text-2xl">Unlimited Storage & Bandwidth</h2>
                     <p>Don’t worry about your site’s storage and bandwidth because Dorik provides you with all the site
                         storage you need.</p>
                 </div>
-                <div class=" ">
+                <div class="flex-1">
                     <i class="fa-brands fa-wpforms text-[#e659aa]"></i>
                     <h2 class="text-[#17136a] font-bold my-2 text-2xl">Forms</h2>
                     <p>Add subscription & contact form easily to your website. Connect popular platforms like Zapier,
@@ -505,35 +505,35 @@
                 </div>
             </div>
             <div class="flex mt-11 gap-4 text-[#45426e]">
-                <div class=" ">
+                <div class="flex-1">
                     <i class="fa-solid fa-chart-simple text-[#ea76b8]"></i>
                     <h2 class="text-[#17136a] font-bold my-2 text-2xl">User Analytics</h2>
                     <p>Measure and analyze user data to get an understanding of user behavior across your web pages</p>
                 </div>
-                <div class=" ">
+                <div class="flex-1">
                     <i class="fa-solid fa-lock text-[#3baefe]"></i>
                     <h2 class="text-[#17136a] font-bold my-2 text-2xl">Password Protected Pages</h2>
                     <p>Protect any page on your website with a password. Securely share your pages with your clients.
                     </p>
                 </div>
-                <div class=" ">
+                <div class="flex-1">
                     <i class="fa-solid fa-magnifying-glass text-[#8c3bfc]"></i>
                     <h2 class="text-[#17136a] font-bold my-2 text-2xl">Native SEO</h2>
                     <p>Optimize your content for SEO and social media to maximize the reach of each post.</p>
                 </div>
             </div>
             <div class="flex mt-11 gap-4 text-[#45426e]">
-                <div class=" ">
+                <div class="flex-1">
                     <i class="fa-solid fa-shield text-[#17134a]"></i>
                     <h2 class="text-[#17136a] font-bold my-2 text-2xl">Custom Domain</h2>
                     <p>Connect your custom domain or subdomain easily from any domain provider to our platform.</p>
                 </div>
-                <div class=" ">
+                <div class="flex-1">
                     <i class="fa-solid fa-code text-[#e23f9d]"></i>
                     <h2 class="text-[#17136a] font-bold my-2 text-2xl">AI Code Export</h2>
                     <p>Export your AI-generated website's clean and un-minified HTML/CSS/JS code with Media files.</p>
                 </div>
-                <div class=" ">
+                <div class="flex-1">
                     <i class="fa-solid fa-share-nodes text-[#27a6fe]"></i>
                     <h2 class="text-[#17136a] font-bold my-2 text-2xl">Integrations</h2>
                     <p>Collect and send data to popular platforms like Zapier, MailChimp, Airtable, etc using forms.</p>
@@ -551,7 +551,7 @@
             <div class="mt-10 w-80">
                 <a href="#"
                     class="bg-[#3a30ba] hover:bg-[#12126e] transition  text-white font-medium py-4 px-8 rounded cursor-pointer inline-block">
-                    See Pricing <i class="fa-solid fa-angle-right"></i>
+                    See Pricing <i class="fa-solid fa-arrow-right"></i>
                 </a>
             </div>
         </div>
