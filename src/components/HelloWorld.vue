@@ -671,5 +671,7 @@
                 </div>
             </div>
         </div>
+        <hr>
+        <p>@Copywrite by Dorik</p>
     </section>
 </template>
